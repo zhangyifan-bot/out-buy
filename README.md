@@ -1,2 +1,24 @@
-# out-buy
-外卖
+<<<<<<< HEAD
+# outBuy
+成都微趣云
+=======
+# sys
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
+>>>>>>> d70d03a... 配置环境
